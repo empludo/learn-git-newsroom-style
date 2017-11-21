@@ -19,13 +19,13 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 Head down to whereever to enjoy whatever little culture your little city has!
 
 ## Weekly Weather
-Sunday:    EXTREMELY, SERIOUSLY MESSED UP
-Monday:    EXTREMELY, SERIOUSLY MESSED UP
-Tuesday:   EXTREMELY, SERIOUSLY MESSED UP
-Wednesday: EXTREMELY, SERIOUSLY MESSED UP
-Thursday:  EXTREMELY, SERIOUSLY MESSED UP
-Friday:    EXTREMELY, SERIOUSLY MESSED UP
-Saturday:  SERIOUSLY MESSED UP (So I guess that's pretty good)
+Sunday:    Sunny
+Monday:    Cloudy
+Tuesday:   Sunny
+Wednesday: Sunny
+Thursday:  Sunny
+Friday:    Sunny
+Saturday:  Rain
 
 November 21, 2017
 2043433 cents
