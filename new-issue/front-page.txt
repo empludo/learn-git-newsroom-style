@@ -17,13 +17,13 @@ Serving you daily printed news since before newspapers went online.
 * headline
 
 ## Weekly Weather
-Sunday:    REPLACE
-Monday:    REPLACE
-Tuesday:   REPLACE
-Wednesday: REPLACE
-Thursday:  REPLACE
-Friday:    REPLACE
-Saturday:  REPLACE
+Sunday:    Sunny
+Monday:    Cloudy
+Tuesday:   Sunny
+Wednesday: Sunny
+Thursday:  Sunny
+Friday:    Sunny
+Saturday:  Rain
 
 June 27, 2016
 25 cents
