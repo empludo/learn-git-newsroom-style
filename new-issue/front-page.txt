@@ -1,29 +1,31 @@
-June 27, 2016
-25 cents
+November 21, 2017
+2500000 cents
 
 # The Bugle Herald
 Serving you daily printed news since before newspapers went online.
 
 ## Local News
-* headline
-* headline
+BIG HEADLINES TODAY!
 
 ## Sports
-* headline
-* headline
+The Moonauts have beaten the  Crows 93-79! Congratulations to the Moonauts! Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ## Culture
-* headline
-* headline
+Head down to whereever to enjoy whatever little culture your little city has!
 
 ## Weekly Weather
-Sunday:    REPLACE
-Monday:    REPLACE
-Tuesday:   REPLACE
-Wednesday: REPLACE
-Thursday:  REPLACE
-Friday:    REPLACE
-Saturday:  REPLACE
+Sunday:    EXTREMELY, SERIOUSLY MESSED UP
+Monday:    EXTREMELY, SERIOUSLY MESSED UP
+Tuesday:   EXTREMELY, SERIOUSLY MESSED UP
+Wednesday: EXTREMELY, SERIOUSLY MESSED UP
+Thursday:  EXTREMELY, SERIOUSLY MESSED UP
+Friday:    EXTREMELY, SERIOUSLY MESSED UP
+Saturday:  SERIOUSLY MESSED UP (So I guess that's pretty good)
 
-June 27, 2016
-25 cents
+November 21, 2017
+2043433 cents
